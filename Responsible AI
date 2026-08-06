@@ -1,0 +1,61 @@
+Here are the essential, high-density study notes for the Microsoft AI-900 / AI-901 exam preparation, focusing strictly on the six core pillars of Responsible AI. [1, 2] 
+## 1. Fairness
+
+* 
+* Core Goal: AI systems must treat all people equally without discrimination.
+* Key Risk: Biased training data leads to biased model predictions.
+* Exam Scenario: A recruitment tool prioritizing male applicants over female applicants due to historical data imbalance. [3, 4] 
+* 
+
+## 2. Reliability & Safety
+
+* 
+* Core Goal: AI systems must operate reliably, safely, and resist malicious manipulation.
+* Key Risk: Software bugs, extreme unexpected edge cases, or adversarial attacks causing real-world harm.
+* Exam Scenario: An autonomous vehicle software failure that misidentifies a pedestrian or an AI medical system suggesting a toxic dose. [5, 6] 
+* 
+
+## 3. Privacy & Security
+
+* 
+* Core Goal: AI systems must be secure and respect user data confidentiality throughout their lifecycle.
+* Key Risk: Training models on sensitive personal data without consent, or data leaks.
+* Exam Scenario: A medical diagnosis model inadvertently revealing patient records or training on copyrighted data without permission.
+* 
+
+## 4. Inclusivity
+
+* 
+* Core Goal: AI systems should empower, engage, and accommodate people of all physical and cognitive abilities.
+* Key Risk: Creating interfaces that exclude users with visual, auditory, or motor impairments.
+* Exam Scenario: A voice assistant that fails to understand people with heavy regional accents or speech impediments.
+* 
+
+## 5. Transparency
+
+* 
+* Core Goal: AI systems must be understandable, clear, and open about their limitations.
+* Key Risk: "Black box" algorithms making life-altering decisions without any explanation of why.
+* Exam Scenario: A credit score app giving clear, step-by-step reasons to a user explaining why their loan application was denied. [7, 8, 9] 
+* 
+
+## 6. Accountability
+
+* 
+* Core Goal: Humans must always maintain ultimate control and responsibility over AI system outcomes.
+* Key Risk: Shifting legal or ethical blame from the developers/management to the automated software.
+* Exam Scenario: Designers setting up a human-in-the-loop review board to evaluate and override incorrect automated medical or financial approvals. [10] 
+* 
+
+Would you like me to generate a mock practice quiz on these pillars to test your AI-900 exam readiness, or do you want to move on to Azure Machine Learning safety tools?
+
+[1] [https://www.global-itech.com](https://www.global-itech.com/courses/microsoft-azure-ai-fundamentals-ai-901)
+[2] [https://www.reddit.com](https://www.reddit.com/r/AzureCertification/comments/1ug9rrz/starting_azure_ai900_ai901_prep_looking_for_good/)
+[3] [https://www.scribd.com](https://www.scribd.com/document/831900714/AI-NOTES-UNIT-III)
+[4] [https://python.plainenglish.io](https://python.plainenglish.io/fairness-evaluation-in-ai-a-practitioners-guide-to-balancing-equity-and-accuracy-3af4da2680f5)
+[5] [https://tutorialsdojo.com](https://tutorialsdojo.com/ai-900-microsoft-azure-ai-fundamentals-sample-exam-questions/)
+[6] [https://ai-reliability.institute](https://ai-reliability.institute/research/ai-reliability-enforcement-standards.html)
+[7] [https://www.researchgate.net](https://www.researchgate.net/publication/343020651_Unexplainability_and_Incomprehensibility_of_AI)
+[8] [https://avonetiq.com](https://avonetiq.com/intelligence/ai-overviews/)
+[9] [https://www.cimplifi.com](https://www.cimplifi.com/resources/transparency-explainability-and-interpretability-of-ai/)
+[10] [https://www.refactored.pro](https://www.refactored.pro/blog/2026/6/5/-ai-901-responsible-ai-principles-apply-fairness-safety-privacy-inclusiveness-transparency-and-accountability)
